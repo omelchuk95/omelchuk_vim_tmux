@@ -1,6 +1,6 @@
 # vim
 
-apt install vim tmux tree
+apt install vim tmux tree mc
 
 Для установки конфига выполнить команду от root:
 
